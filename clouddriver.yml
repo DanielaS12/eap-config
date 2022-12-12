@@ -9,7 +9,7 @@ aws:
       regions:
         - name: us-east-1
         - name: us-west-2
-      assumeRole: okta-admin-role/daniela.sandu@armory.io
+      assumeRole: role/your_firs_role
   primaryAccount: splat-account
   accessKeyId: ASIA3EF7WROFXJX4KICS
   secretAccessKey: llRbD706aLrMgtqo75BqyxNCHQQVpfJgKNNMicIu
