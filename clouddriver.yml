@@ -7,9 +7,8 @@ aws:
       permissions: {}
       accountId: '764906212235'
       regions:
-        - name: us-east-1
         - name: us-west-2
-      assumeRole: role/your_firs_role
+      assumeRole: role/BaseIAMRole
   primaryAccount: splat-account
   accessKeyId: ASIA3EF7WROFXJX4KICS
   secretAccessKey: llRbD706aLrMgtqo75BqyxNCHQQVpfJgKNNMicIu
@@ -17,4 +16,4 @@ aws:
   defaultRegions:
   - name: us-west-2
   defaults:
-    iamRole: BaseIAMRole
+    iamRole: daniela-eap-role-do-not-delete
