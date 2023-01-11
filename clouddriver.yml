@@ -10,8 +10,8 @@ aws:
         - name: us-west-2
       assumeRole: role/daniela-eap-role-do-not-delete
   primaryAccount: splat-account
-  accessKeyId: ASIA3EF7WROFXJX4KICS
-  secretAccessKey: llRbD706aLrMgtqo75BqyxNCHQQVpfJgKNNMicIu
+  accessKeyId: ASIA3EF7WROFZAVI3HZM
+  secretAccessKey: 8jAO8j5iAoxJpepOe8gdnQvl8ZiDQQX9j8mubWNX
   defaultKeyPairTemplate: '{{name}}-keypair'
   defaultRegions:
   - name: us-west-2
