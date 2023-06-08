@@ -1,6 +1,7 @@
         kubernetes:
           enabled: true
           primaryAccount: daniela-k8s
+          custom-property-binding-enabled: true
           accounts:
           # Account for Spinnaker's own kubernetes cluster (Optional).
           - name: daniela-k8s
